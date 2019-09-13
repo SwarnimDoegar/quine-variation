@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554881378 source:c:\users\swarnim doegar\desktop\quine\main.cpp
+	<iostream>
+	<fstream>
+
+1554904785 source:c:\users\swarnim doegar\desktop\study\quine\main.cpp
+	<iostream>
+	<fstream>
+
